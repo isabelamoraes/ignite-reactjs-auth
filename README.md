@@ -25,10 +25,10 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reacjs-auth.git
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-auth.git
 
 # Go into the repository
-$ cd ignite-reacjs-auth
+$ cd ignite-reactjs-auth
 
 # Go into the backend or frontend repository
 $ cd <backend | fronted>
