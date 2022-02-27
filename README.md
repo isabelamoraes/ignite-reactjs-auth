@@ -36,7 +36,7 @@ $ cd <backend | fronted>
 # Install dependencies
 $ yarn
 
-# Run the node application
+# Run the application
 $ yarn dev
 
 ```
